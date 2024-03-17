@@ -19,7 +19,7 @@ Functionality:
 To run the FilmFetch App on your machine, follow these steps: 
 
 	1. First, clone the FilmFetch repository to your local machine using the following command:
-	 - git clone https://github.com/marialee222/film-fetch-app.git
+	 - git clone https://github.com/marialee222/film-fetch.git
 
 	2. Open a terminal or command prompt and navigate to the directory where you cloned the FilmFetch repository.
  
