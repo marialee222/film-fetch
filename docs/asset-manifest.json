@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/film-fetch/static/css/main.3292250f.css",
+    "main.js": "/film-fetch/static/js/main.ff43f708.js",
+    "index.html": "/film-fetch/index.html",
+    "static/media/search.svg": "/film-fetch/static/media/search.981b582ea232c3cb047eca919deaf9e8.svg",
+    "main.3292250f.css.map": "/film-fetch/static/css/main.3292250f.css.map",
+    "main.ff43f708.js.map": "/film-fetch/static/js/main.ff43f708.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3292250f.css",
+    "static/js/main.ff43f708.js"
+  ]
+}
