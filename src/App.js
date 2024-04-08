@@ -3,7 +3,8 @@ import MovieCard from './MovieCard';
 import SearchIcon from './search.svg';
 import './App.css';
 
-const API_URL = 'http://www.omdbapi.com?apikey=cc66768d'
+// Updated API URL to use HTTPS
+const API_URL = 'https://www.omdbapi.com?apikey=cc66768d';
 
 const App = () => {
     const [movies, setMovies] = useState([]);
@@ -18,7 +19,6 @@ const App = () => {
 
     useEffect(() => {
         searchMovies('Wonder Woman');
-
     }, []);
 
     return (
@@ -42,7 +42,7 @@ const App = () => {
                 ? (
                     <div className="container">
                         {movies.map((movie) => (
-                            <MovieCard movie={movie} />
+                            <MovieCard key={movie.imdbID} movie={movie} />
                         ))}
                     </div>
                 ) : (
@@ -56,4 +56,3 @@ const App = () => {
 }
 
 export default App;
-
