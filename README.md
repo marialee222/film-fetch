@@ -13,7 +13,7 @@ Functionality:
  - If no movies are found for the search term, it displays a message indicating "No movies found."
 
 
-<img src="https://raw.githubusercontent.com/marialee222/film-fetch/main/film.png" width="300" height="200">
+<img src="https://raw.githubusercontent.com/marialee222/film-fetch/main/film.png" width="800" height="400">
 
 
 
