@@ -12,7 +12,8 @@ Functionality:
  - The app initializes with a default search term ("Wonder Woman") and displays movies matching this term.
  - If no movies are found for the search term, it displays a message indicating "No movies found."
 
-![filmfetch](https://raw.githubusercontent.com/marialee222/film-fetch/main/film.png)
+
+<img src="https://raw.githubusercontent.com/marialee222/film-fetch/main/film.png" width="300" height="200">
 
 
 
